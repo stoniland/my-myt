@@ -1,0 +1,31 @@
+{
+    "site": {
+      "name": "Мій сайт",
+      "url": "http://localhost:3000",
+      "status": "online"
+    },
+    "user": {
+      "id": 123,
+      "name": "Іван",
+      "email": "ivan@example.com",
+      "role": "administrator"
+    },
+    "products": [
+      {
+        "id": 1,
+        "name": "Продукт 1",
+        "price": 500,
+        "currency": "UAH",
+        "inStock": true
+      },
+      {
+        "id": 2,
+        "name": "Продукт 2",
+        "price": 300,
+        "currency": "UAH",
+        "inStock": false
+      }
+    ],
+    "message": "Ласкаво просимо на наш сайт!"
+  }
+  
